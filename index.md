@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hello! My name is Evan Cazalas.
 
-Maybe say a some things about yourself.
+I'm a freshman in college.
 
-Or maybe what you plan to blog about.
+ The focus of my blog will be on AI and Data in Cancer!
