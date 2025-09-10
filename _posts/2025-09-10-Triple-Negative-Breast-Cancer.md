@@ -59,3 +59,11 @@ and has one of the worst rates of survival out of all breast cancer types.
 The first 5-year survival rate when localized is 92%. 
 
 When regional, it's 65% and when distant, the survival is 11%.
+
+Sources
+Kumur Pankaj, Aggarwal Rupali. In Archives of Gynecology and Obstetrics, 2016; vol 293, pp.247-269 An overview of triple-negative breast cancer | Archives of Gynecology and Obstetrics
+Scott, Lia C., et al. In Update on Triple Negative Breast Cancer Disparities for the United States – A Population Based Study from the United States Cancer Statistics Database, 2010-2014, no.19;  2019; vol. 125,  pp. 3412, https://doi.org/10.1002/cncr.32207.
+Dass, Sylvia A., et al. "Triple Negative Breast Cancer: A Review of Present and Future Diagnostic Modalities." Medicina, no.1; 2021; vol. 57, pp. 62, https://doi.org/10.3390/medicina57010062. 
+Emedicinehealth. Cancer Center. Triple-Negative Breast Cancer Survival Rate, Prognosis, Treatment(accessed September 10,2025)
+American Cancer Society. American Cancer Society. Triple-negative Breast Cancer | Details, Diagnosis, and Signs | American Cancer Society
+
