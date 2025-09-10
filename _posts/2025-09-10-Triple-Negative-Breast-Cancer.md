@@ -1,4 +1,5 @@
 For my research in Honors 1110, I will be investigating the subtype of breast cancer known as Triple Negative.
+<img width="2223" height="1393" alt="image" src="https://github.com/user-attachments/assets/b64cb64e-9060-415a-a792-6f1cdd72a29b" />
 
 
 What makes triple-negative breast cancer different than other types of breast cancer 
