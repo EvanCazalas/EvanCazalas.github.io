@@ -23,5 +23,43 @@ This is quite a distinct difference from pediatric tumors.
 
 So why do adults have such larger gene mutations?
 
-_posts/cell-damage-and-cancer2.jpg
+
+![cell-damage-and-cancer2](https://github.com/user-attachments/assets/f3bc3c15-f7e3-4a3e-b5d0-2b314840b064)
+
+https://www.facingourrisk.org/uploads/cell-damage-and-cancer2.JPG
+
+Adults have larger gene mutations because of age.
+
+As an example of this, I will use colorectal tumors. 
+ 
+One mutation that occurs is the gatekeeping mutation. 
+
+Gatekeeping mutation provides a selective growth advantage in a normal epithelial cell, which then outgrows the other surrounding cells.
+
+This allows it to become a mircospectic clone.
+
+In colorectal tumors, this mutation often occurs in the gene APC (Adenomatous Polyposis Coli).
+
+This slowly grows a small adenoma (a benign tumor made of epithelial cells), which triggers a second mutation in a second gene.
+
+This second gene releases more clonal growth, which allows an expansion of cell number.
+
+This process of mutation just continues with other genes, like PIK3CA, SMAD4, and TP53.
+
+This process is slow, but eventually it forms a malignant tumor.
+
+This effect selective growth advantage (difference between death and birth in cell population), and is labeled as a driver mutation.
+
+In a healthy adult, the selective growth advantage should have a difference of 0.
+
+Driver mutations increase the selective growth advantage by only 0.4%. 
+
+Which you wouldn't think is a lot, until it keeps adding up over several years.
+
+Using the colorectal tumors explant, first then was a mutation in the APC gene, then a second gene, then in genes like PIK3CA, SMAD4, and TP53.
+
+
+
+So, how does genome sequencing play a role in this information? 
+
 
