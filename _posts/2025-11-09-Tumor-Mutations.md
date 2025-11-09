@@ -61,5 +61,25 @@ Using the colorectal tumors explant, first then was a mutation in the APC gene, 
 
 
 So, how does genome sequencing play a role in this information? 
+![genome-sequencing-infographic-human-genome-project-flat-style-vector-illustration-2F4KF5X](https://github.com/user-attachments/assets/f8df1845-ec91-4fb9-8af6-b6988ca65f42)
+
+https://c8.alamy.com/comp/2F4KF5X/genome-sequencing-infographic-human-genome-project-flat-style-vector-illustration-2F4KF5X.jpg
+
+Gemone sequencing allows us to see these gene mutations and know exactly what they are doing.
+
+ This technology has given us the ability to not just look at tumor sequences, but also compare them to normal sequences.
+ 
+Letting us know what exactly what mutations are unique to tumors.
+
+I believe that knowing how tumors form is how we create better treatments.
+
+
+Wikipedia contributors. "Cancer genome sequencing." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 31 Oct. 2025. Web. 9 Nov. 2025
+
+Vogelstein, Bert, et al. "Cancer Genome Landscapes." Science, 2013, https://doi.org/1235122. Accessed 9 Nov. 2025
+
+
+
+
 
 
