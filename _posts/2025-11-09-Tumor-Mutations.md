@@ -23,7 +23,7 @@ This is quite a distinct difference from pediatric tumors.
 
 So why do adults have such larger gene mutations?
 
-<img src="https://github.com/user-attachments/assets/f3bc3c15-f7e3-4a3e-b5d0-2b314840b064" width="1000" />
+<img src="https://github.com/user-attachments/assets/f3bc3c15-f7e3-4a3e-b5d0-2b314840b064" width="600" />
 
 https://www.facingourrisk.org/uploads/cell-damage-and-cancer2.JPG
 
