@@ -60,7 +60,8 @@ Using the colorectal tumors explant, first then was a mutation in the APC gene, 
 
 
 So, how does genome sequencing play a role in this information? 
-![genome-sequencing-infographic-human-genome-project-flat-style-vector-illustration-2F4KF5X](https://github.com/user-attachments/assets/f8df1845-ec91-4fb9-8af6-b6988ca65f42)
+<img src="https://github.com/user-attachments/assets/f8df1845-ec91-4fb9-8af6-b6988ca65f42" width="600" />
+
 
 https://c8.alamy.com/comp/2F4KF5X/genome-sequencing-infographic-human-genome-project-flat-style-vector-illustration-2F4KF5X.jpg
 
