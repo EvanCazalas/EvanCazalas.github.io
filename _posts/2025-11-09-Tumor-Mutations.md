@@ -23,8 +23,17 @@ This is quite a distinct difference from pediatric tumors.
 
 So why do adults have such larger gene mutations?
 
+<img src="https://github.com/user-attachments/assets/f3bc3c15-f7e3-4a3e-b5d0-2b314840b064" width="300" />
 
-![cell-damage-and-cancer2](https://github.com/user-attachments/assets/f3bc3c15-f7e3-4a3e-b5d0-2b314840b064)
+
+
+
+Can I resize images in GitHub using CSS?
+
+Show me an example of setting a height instead of a width
+
+Tell me more about responsive images in GitHub
+
 
 https://www.facingourrisk.org/uploads/cell-damage-and-cancer2.JPG
 
